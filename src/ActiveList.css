@@ -1,0 +1,42 @@
+.activeList{
+    position: absolute;
+    top:50%;
+    left: 10%;
+}
+.dolist{
+    position: absolute;
+    top:-10%;
+    left:35%;
+}
+.listName{
+    position: absolute;
+    top:30%;
+    left:28%; 
+}
+.mr2{
+    position: absolute;
+    top:45%;
+    left:15%;
+}
+.delete{
+    font-size: 200;
+    font-family: 'Permanent Marker', cursive;
+    border: none;
+    outline: none;
+   
+    color: black;
+    cursor: pointer;
+    margin: 0 10px 0 0;
+    padding: 0;
+    background: none;
+}
+
+.itemName .delete{
+    position: absolute;
+    left:10%;
+    top:44.5%; 
+    visibility: hidden;
+}
+.itemName:hover .delete{
+    visibility: visible;
+}

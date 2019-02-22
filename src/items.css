@@ -1,0 +1,20 @@
+.addcard{
+    position: absolute;
+    top:28%;
+    left:38%;
+}
+.add{
+    position: absolute;
+    top:28.5%;
+    left:54%;
+}
+.searchcard{
+    position: absolute;
+    top:35%;
+    left:38%;
+}
+.delete{
+    position: absolute;
+    top:35.5%;
+    left:54%;
+}
